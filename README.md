@@ -23,8 +23,12 @@ Cheers.
 OUTPUT
 
 Encryption
-![alt text](https://i.imgur.com/V9ADtqH.png)
-
-Decryption
 
 ![alt text](https://i.imgur.com/zx8g0iP.png)
+
+
+Decryption
+![alt text](https://i.imgur.com/V9ADtqH.png)
+
+
+
