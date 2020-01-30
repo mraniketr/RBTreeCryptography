@@ -22,12 +22,16 @@ Cheers.
 
 OUTPUT
 
-Encryption
+# Encryption
 
 ![alt text](https://i.imgur.com/zx8g0iP.png)
 
 
-Decryption
+
+
+# Decryption
+
+
 ![alt text](https://i.imgur.com/V9ADtqH.png)
 
 
